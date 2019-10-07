@@ -232,7 +232,7 @@
         <div class="row" id="portfolio-wrapper">
           <div class="col-lg-3 col-md-6 portfolio-item filter-app">
             <a href="">
-              <img src="img/portfolio/app1.jpg" alt="">
+              <img src="regna/img/portfolio/app1.jpg" alt="">
               <div class="details">
                 <h4>App 1</h4>
                 <span>Alored dono par</span>
@@ -242,7 +242,7 @@
 
           <div class="col-lg-3 col-md-6 portfolio-item filter-web">
             <a href="">
-              <img src="img/portfolio/web2.jpg" alt="">
+              <img src="regna/img/portfolio/web2.jpg" alt="">
               <div class="details">
                 <h4>Web 2</h4>
                 <span>Alored dono par</span>
@@ -252,7 +252,7 @@
 
           <div class="col-lg-3 col-md-6 portfolio-item filter-app">
             <a href="">
-              <img src="img/portfolio/app3.jpg" alt="">
+              <img src="regna/img/portfolio/app3.jpg" alt="">
               <div class="details">
                 <h4>App 3</h4>
                 <span>Alored dono par</span>
@@ -262,7 +262,7 @@
 
           <div class="col-lg-3 col-md-6 portfolio-item filter-card">
             <a href="">
-              <img src="img/portfolio/card1.jpg" alt="">
+              <img src="regna/img/portfolio/card1.jpg" alt="">
               <div class="details">
                 <h4>Card 1</h4>
                 <span>Alored dono par</span>
@@ -272,7 +272,7 @@
 
           <div class="col-lg-3 col-md-6 portfolio-item filter-card">
             <a href="">
-              <img src="img/portfolio/card2.jpg" alt="">
+              <img src="regna/img/portfolio/card2.jpg" alt="">
               <div class="details">
                 <h4>Card 2</h4>
                 <span>Alored dono par</span>
@@ -282,7 +282,7 @@
 
           <div class="col-lg-3 col-md-6 portfolio-item filter-web">
             <a href="">
-              <img src="img/portfolio/web3.jpg" alt="">
+              <img src="regna/img/portfolio/web3.jpg" alt="">
               <div class="details">
                 <h4>Web 3</h4>
                 <span>Alored dono par</span>
@@ -292,7 +292,7 @@
 
           <div class="col-lg-3 col-md-6 portfolio-item filter-card">
             <a href="">
-              <img src="img/portfolio/card3.jpg" alt="">
+              <img src="regna/img/portfolio/card3.jpg" alt="">
               <div class="details">
                 <h4>Card 3</h4>
                 <span>Alored dono par</span>
@@ -302,7 +302,7 @@
 
           <div class="col-lg-3 col-md-6 portfolio-item filter-app">
             <a href="">
-              <img src="img/portfolio/app2.jpg" alt="">
+              <img src="regna/img/portfolio/app2.jpg" alt="">
               <div class="details">
                 <h4>App 2</h4>
                 <span>Alored dono par</span>
@@ -312,7 +312,7 @@
 
           <div class="col-lg-3 col-md-6 portfolio-item filter-logo">
             <a href="">
-              <img src="img/portfolio/logo1.jpg" alt="">
+              <img src="regna/img/portfolio/logo1.jpg" alt="">
               <div class="details">
                 <h4>Logo 1</h4>
                 <span>Alored dono par</span>
@@ -322,7 +322,7 @@
 
           <div class="col-lg-3 col-md-6 portfolio-item filter-logo">
             <a href="">
-              <img src="img/portfolio/logo3.jpg" alt="">
+              <img src="regna/img/portfolio/logo3.jpg" alt="">
               <div class="details">
                 <h4>Logo 3</h4>
                 <span>Alored dono par</span>
@@ -332,7 +332,7 @@
 
           <div class="col-lg-3 col-md-6 portfolio-item filter-web">
             <a href="">
-              <img src="img/portfolio/web1.jpg" alt="">
+              <img src="regna/img/portfolio/web1.jpg" alt="">
               <div class="details">
                 <h4>Web 1</h4>
                 <span>Alored dono par</span>
@@ -342,7 +342,7 @@
 
           <div class="col-lg-3 col-md-6 portfolio-item filter-logo">
             <a href="">
-              <img src="img/portfolio/logo2.jpg" alt="">
+              <img src="regna/img/portfolio/logo2.jpg" alt="">
               <div class="details">
                 <h4>Logo 2</h4>
                 <span>Alored dono par</span>
